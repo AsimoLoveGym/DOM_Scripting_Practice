@@ -32,3 +32,15 @@ img{
     clear:both;
     max-width: 100%;
 }
+
+#imagegallery{
+    list-style: none;
+}
+
+#imagegallery li{
+    display: inline;
+}
+
+#imagegallery li a img{
+    border: 0;
+}
